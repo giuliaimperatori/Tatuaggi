@@ -42,7 +42,7 @@ section {
 	display: grid;
 	grid-template-columns: 1fr 4fr;
 	margin-bottom: 2em;
-	padding-top: 0.25em;
+	padding-top: 2em;
 }
 
 .filetto {
