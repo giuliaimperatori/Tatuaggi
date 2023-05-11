@@ -1,0 +1,65 @@
+*, *:before, *:after {
+	box-sizing: border-box;
+}
+
+
+body {
+	background-color: #202020; /* dark grey, #FFFFFF */
+	padding: 2em;
+	margin: 0;
+	font-family: 'Instrument Serif', serif;
+	font-style: normal;
+          font-weight: 800;
+	color: whitesmoke;
+} 
+
+.mano{
+
+	/*text-align: center;*/
+	margin-left: 15%;
+	margin-top: 2%;
+	margin-bottom: 10%;
+	
+}
+
+p {
+	margin: 0 0 1em 0;
+	max-width: 30em;
+}
+
+h1 {
+	margin: 0;
+	font-size: 3em;
+}
+
+h4 {
+	margin: 0;
+}
+
+header,
+section {
+	display: grid;
+	grid-template-columns: 1fr 4fr;
+	margin-bottom: 2em;
+	padding-top: 0.25em;
+}
+
+.filetto {
+	border-top: dotted 3px whitesmoke;
+}
+
+/* img {
+	width: 15%;
+	/* align-content: center; */
+	/* align-items: center;
+	margin: 0% 0% 10% 20%;
+} */
+
+.titolo-sezione {
+	margin-right: 1em;
+}
+
+
+
+
+  
