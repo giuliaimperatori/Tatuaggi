@@ -1,9 +1,9 @@
-let catattoo
+let infinitytattoo
 
 
 async function preload(){
 	
-	catattoo = loadImage("./cat_tattoo.png");
+	infinitytattoo = loadImage("./Infinity_Tattoo.png");
 	
 
 }
@@ -51,14 +51,10 @@ if (detector && capture.loadedmetadata) {
             //const indice = mano.keypoints [8]
             //const medio = mano.keypoints [12]
 
-			push()
-			
-			image(catattoo, polso.x-20, polso.y)
+		
+			image(infinitytattoo, polso.x-40, polso.y+20)
 			scale (0.5, 0.5)
-			//image(catattoo, indice.x-20, indice.y-20)
-			pop()		
-            
-            pop()
+			
 	
         }
 }
