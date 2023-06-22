@@ -35,4 +35,4 @@ Mostrando la mano alla webcam, appena sotto il polso comparirà il tatuaggio d'e
 ## Target e contesto d’uso
 Il target sono le persone interessate ai tatuaggi, il "virtual tattoo" potrebbe essere utilizzato sui siti web dei tatuatori o ad esempio nelle loro pagina instagram, sotto la sezione "effetti", dove sarebbe possibile aggiungere alcuni dei loro tatuaggi disponibili. In questo modo i clienti potrebbero provare i tatuaggi in modo virtuale prima che il disegno venga realizzato sulla loro pelle, potrebbero inoltre provare più varianti e in parti del corpo diverse.
 
-[<img src="immagine_01.jpg" width="300" alt="immagine_01">]()
+[<img src="immagine_01.png" width="300" alt="immagine_01">]()
