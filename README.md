@@ -37,12 +37,12 @@ if (detector && capture.loadedmetadata) {
 
 		if (hands.length == 1) {
 		
-			  const mano = hands[0]
+			const mano = hands[0]
    
-        const polso = mano.keypoints [0]
+        		const polso = mano.keypoints [0]
           
-			  image(infinitytattoo, polso.x-40, polso.y+20)
-			  scale (0.5, 0.5)
+			image(infinitytattoo, polso.x-40, polso.y+20)
+			scale (0.5, 0.5)
 
 
 
